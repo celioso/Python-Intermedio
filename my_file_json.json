@@ -1,0 +1,14 @@
+{
+  "name": "Mario",
+  "surname": "Celis",
+  "age": 38,
+  "vehicle": "BMW X3 XDrive 30e hybrid",
+  "cash": "In the United States I have USD $1,500,000 approximately and in Colombia $5,000,000 pesos, approximately, dated February 15, 2023",
+  "language": [
+    "Python",
+    "Swift",
+    "Kotlin",
+    "PHP"
+  ],
+  "website": "https://www.baloto.com/"
+}
